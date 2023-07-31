@@ -9,6 +9,6 @@ Currently, I am pursuing my passion for software development at 4Geeks Academy w
 ## Let's connect:
 I'm always excited to connect with like-minded individuals, fellow developers, or anyone who shares similar interests. Whether you want to discuss technology, swap fiction story ideas, share music recommendations, or talk about the latest trends in yoga, reach out to me.
 
-Feel free also to connect with me on [Linkedin Profile](https://www.linkedin.com/in/elisa-garc%C3%ADa-d%C3%ADaz-ropero/). I'm always open to new connections and opportunities to collaborate.
+Feel free also to connect with me on [Linkedin Profile](https://www.linkedin.com/in/elisa-garcia-diaz-ropero/). I'm always open to new connections and opportunities to collaborate.
 
 Thank you for visiting my GitHub profile, and I hope you find something inspiring or useful here. Happy coding!
