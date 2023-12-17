@@ -1,13 +1,16 @@
 ### Welcome to my GitHub profile!  🐍
 
 ## About me:
-I'm **Elisa García Díaz-Ropero**, an enthusiastic tech lover from Spain. I have a keen interest in exploring new technologies, diving into the world of artificial intelligence, grooving to techno music, crafting fiction stories, and finding peace through yoga. I'm always up for exciting adventures.
+Full Stack developer with a background in Audiovisual Communication and Marketing. My goal is to continue learning and further enhance my skills in various technologies, including HTML5, CSS3, JavaScript, Bootstrap5, Python, React, Flux, SQL, and API-Postman, among others.
 
-## My journey:
-Currently, I am pursuing my passion for software development at 4Geeks Academy with the goal of becoming a skilled Full Stack Software Developer. I'm diving deep into various technologies and acquiring essential skills such as HTML5, CSS3, JavaScript, Bootstrap5, and much more!
+## My Projects:
+
+LiteraryInk is a project aimed at catering to an audience consisting of budding writers. It's a blend of a blog, a social interaction platform, and an e-commerce setup.
+
+Technologies used: Python, Flask, JavaScript, React, SQLAlchemy, JSON Web Tokens, HTML, CSS, Bootstrap, and the Pen to Print and Stripe SDK APIs.
 
 ## Let's connect:
-I'm always excited to connect with like-minded individuals, fellow developers, or anyone who shares similar interests. Whether you want to discuss technology, swap fiction story ideas, share music recommendations, or talk about the latest trends in yoga, reach out to me.
+I'm always excited to connect with like-minded individuals, fellow developers, or anyone who shares similar interests. Whether you want to discuss technology, swap fiction story ideas or talk about the latest trends in yoga, reach out to me.
 
 Feel free also to connect with me on [Linkedin Profile](https://www.linkedin.com/in/elisa-garcia-diaz-ropero/). I'm always open to new connections and opportunities to collaborate.
 
